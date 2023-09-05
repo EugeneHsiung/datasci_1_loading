@@ -1,0 +1,86 @@
+Year,Facility ID,County,Region,Hospital Name,Total Births,Infants <2000 Gm,Adj. Births,Total Infants Vaccinated,% Infants Vaccinated
+2018,1,Albany,CDRO,Albany Medical Center Hospital,1919,204,1715,1433,83.55
+2018,5,Albany,CDRO,St Peters Hospital,2711,63,2648,2396,90.48
+2018,39,Allegany,WRO,Memorial Hosp of Wm F & Gertrude F Jones A/K/A Jones Memorial Hos,395,5,390,304,77.94
+2018,43,Broome,CNYRO,Our Lady of Lourdes Memorial Hospital Inc,818,3,815,728,89.32
+2018,58,Broome,CNYRO,United Health Services Hospitals Inc. - Wilson Medical Center,1541,50,1491,1282,85.98
+2018,66,Cattaraugus,WRO,Olean General Hospital,633,11,622,575,92.44
+2018,85,Cayuga,CNYRO,Auburn Community Hospital,350,3,347,312,89.91
+2018,98,Chautauqua,WRO,Brooks Memorial Hospital,294,4,290,271,93.44
+2018,103,Chautauqua,WRO,Woman's Christian Association,646,14,632,595,94.14
+2018,116,Chemung,WRO,Arnot Ogden Medical Center,1229,62,1167,1023,87.66
+2018,128,Chenango,CNYRO,Chenango Memorial Hospital Inc,245,6,239,233,97.48
+2018,135,Clinton,CDRO,The University of Vermont Health Network - Champlain Valley Physicians Hospital Medical Center,739,12,727,653,89.82
+2018,146,Columbia,CDRO,Columbia Memorial Hospital,323,1,322,274,85.09
+2018,158,Cortland,CNYRO,Cortland Regional Medical Center Inc,366,1,365,349,95.61
+2018,181,Dutchess,MARO,Vassar Brothers Medical Center,2430,89,2341,1785,76.24
+2018,192,Dutchess,MARO,Northern Dutchess Hospital,831,,831,445,53.54
+2018,3067,Erie,WRO,Millard Fillmore Suburban Hospital,2579,25,2524,2032,80.5
+2018,208,Erie,WRO,Women And Children's Hospital Of Buffalo,3013,195,2818,2339,83
+2018,213,Erie,WRO,Mercy Hospital of Buffalo,2017,29,1988,1813,91.19
+2018,218,Erie,WRO,Sisters of Charity Hospital,3275,166,3109,2829,90.99
+2018,245,Suffolk,MARO,University Hospital,3499,137,3362,2409,71.65
+2018,324,Franklin,CDRO,Adirondack Medical Center-Saranac Lake Site,154,,154,139,90.25
+2018,325,Franklin,CDRO,Alice Hyde Medical Center,248,2,246,205,83.33
+2018,330,Fulton,CDRO,Nathan Littauer Hospital,356,1,355,320,90.14
+2018,339,Genesee,WRO,United Memorial Medical Center North Street Campus,508,6,502,421,83.86
+2018,367,Jefferson,CNYRO,Samaritan Medical Center,1591,21,1570,1440,91.71
+2018,379,Jefferson,CNYRO,Carthage Area Hospital Inc,280,2,278,246,88.48
+2018,383,Lewis,CNYRO,Lewis County General Hospital,196,4,192,173,90.1
+2018,393,Livingston,WRO,Nicholas H Noyes Memorial Hospital,318,2,316,290,91.77
+2018,397,Madison,CNYRO,Oneida Healthcare,494,3,491,461,93.89
+2018,409,Monroe,WRO,Highland Hospital,2898,31,2867,2441,85.14
+2018,411,Monroe,WRO,Rochester General Hospital,1890,28,1862,1758,94.41
+2018,413,Monroe,WRO,Strong Memorial Hospital,2778,307,2471,2176,88.06
+2018,471,Monroe,WRO,The Unity Hospital of Rochester,1372,22,1350,1214,89.92
+2018,484,Montgomery,CDRO,St. Mary's Healthcare,451,4,447,426,95.3
+2018,511,Nassau,MARO,Winthrop-University Hospital,4584,198,4386,3214,73.27
+2018,513,Nassau,MARO,Mercy Medical Center,875,29,846,661,78.13
+2018,527,Nassau,MARO,South Nassau Communities Hospital,1796,27,1769,1435,81.11
+2018,528,Nassau,MARO,Nassau University Medical Center,1234,42,1192,1062,89.09
+2018,541,Nassau,MARO,North Shore University Hospital,6318,202,6116,4761,77.84
+2018,565,Niagara,WRO,Eastern Niagara Hospital - Lockport Division,314,4,310,265,85.48
+2018,574,Niagara,WRO,Niagara Falls Memorial Medical Center,412,7,405,388,95.8
+2018,583,Niagara,WRO,Mount St Marys Hospital and Health Center,304,3,301,276,91.69
+2018,589,Oneida,CNYRO,"Rome Memorial Hospital, Inc",516,2,514,425,82.68
+2018,599,Oneida,CNYRO,Faxton-St Lukes Healthcare St Lukes Division,1700,30,1670,1549,92.75
+2018,628,Onondaga,CNYRO,UPSTATE University Hospital at Community General,1093,11,1082,1039,96.02
+2018,630,Onondaga,CNYRO,St Josephs Hospital Health Center,1919,23,1896,1767,93.19
+2018,636,Onondaga,CNYRO,Crouse Hospital,3707,258,3449,3222,93.41
+2018,678,Ontario,WRO,F F Thompson Hospital,673,9,664,516,77.71
+2018,694,Orange,MARO,St Luke's Cornwall Hospital/Newburgh,859,17,842,761,90.38
+2018,699,Orange,MARO,Orange Regional Medical Center,1935,58,1877,1535,81.77
+2018,704,Orange,MARO,St Anthony Community Hospital,340,2,338,269,79.58
+2018,727,Oswego,CNYRO,Oswego Hospital,472,5,467,453,97
+2018,746,Otsego,CDRO,Mary Imogene Bassett Hospital,1023,5,1018,836,82.12
+2018,752,Putnam,MARO,Putnam Hospital Center,376,1,375,262,69.86
+2018,756,Rensselaer,CDRO,Samaritan Hospital,937,9,928,764,82.32
+2018,776,Rockland,MARO,Nyack Hospital,1303,16,1287,1052,81.74
+2018,779,Rockland,MARO,Good Samaritan Hospital of Suffern,3366,9,3357,865,25.76
+2018,798,St. Lawrence,CNYRO,Claxton-Hepburn Medical Center,181,,181,167,92.26
+2018,804,St. Lawrence,CNYRO,Massena Memorial Hospital,181,4,177,142,80.22
+2018,815,St. Lawrence,CNYRO,Canton-Potsdam Hospital,491,6,485,433,89.27
+2018,818,Saratoga,CDRO,Saratoga Hospital,707,4,703,630,89.61
+2018,848,Schenectady,CDRO,Ellis Hospital - Bellevue Woman's Care Center Division,2186,33,2153,1901,88.29
+2018,866,Steuben,WRO,Corning Hospital,512,4,508,459,90.35
+2018,889,Suffolk,MARO,Southampton Hospital,710,1,709,622,87.72
+2018,896,Suffolk,MARO,St Charles Hospital,1257,19,1238,770,62.19
+2018,913,Suffolk,MARO,Huntington Hospital,1216,6,1210,1016,83.96
+2018,924,Suffolk,MARO,Southside Hospital,2491,51,2440,2105,86.27
+2018,925,Suffolk,MARO,Good Samaritan Hospital Medical Center,2532,94,2438,1727,70.83
+2018,938,Suffolk,MARO,Peconic Bay Medical Center,290,5,285,264,92.63
+2018,943,Suffolk,MARO,St Catherine of Siena Hospital,613,13,600,504,84
+2018,971,Sullivan,MARO,Catskill Regional Medical Center,565,5,560,466,83.21
+2018,977,Tompkins,CNYRO,Cayuga Medical Center at Ithaca,856,14,842,739,87.76
+2018,990,Ulster,MARO,HealthAlliance Hospital Broadway Campus,236,6,230,173,75.21
+2018,1005,Warren,CDRO,Glens Falls Hospital,1109,7,1102,982,89.11
+2018,1028,Wayne,WRO,Newark-Wayne Community Hospital,664,3,661,620,93.79
+2018,1039,Westchester,MARO,New York-Presbyterian/Hudson Valley Hospital,585,9,576,440,76.38
+2018,1045,Westchester,MARO,White Plains Hospital Center,1770,47,1723,1379,80.03
+2018,1072,Westchester,MARO,Montefiore New Rochelle Hospital,825,19,806,767,95.16
+2018,1097,Westchester,MARO,SJRH - St Johns Division,1040,6,1034,934,90.32
+2018,1117,Westchester,MARO,Northern Westchester Hospital,1527,27,1500,1320,88
+2018,1122,Westchester,MARO,New York-Presbyterian/Lawrence Hospital,1448,21,1427,1271,89.06
+2018,1129,Westchester,MARO,Phelps Memorial Hospital Assn,984,2,982,799,81.36
+2018,1139,Westchester,MARO,Westchester Medical Center,934,145,789,682,86.43
+2018,1153,Wyoming,WRO,Wyoming County Community Hospital,122,1,121,102,84.29
